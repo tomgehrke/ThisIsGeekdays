@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">This Is Geekdays</string>
+    <string name="show_name">Geekdays</string>
+    <string name="show_description">Geekdays is CSICON\'s daily news and information show, bringing you the latest things from the world of geek culture, every single Geekday!</string>
+    <string name="show_host_legend">Host:</string>
+    <string name="show_host">Breki Tomasson</string>
+    <string name="show_staff_legend">Staff:</string>
+    <string name="show_staff">Jeff Kelley, Josh Wodarz, Raulie Ruiz and Tom Gehrke</string>
+    <string name="show_link_legend">Site:</string>
+    <string name="show_link">http://csicon.fm/g/</string>
+    <string name="show_hq_legend">Office:</string>
+    <string name="show_hq">Färögatan 33, 164 51 Kista, Sweden</string>
+</resources>
